@@ -37,10 +37,7 @@ git clone https://github.com/swapnilsparsh/YoutubeDownloader.git
 pip install --upgrade pytube
 pip install requests
 ```
-If you are facing issue in downloading Music Videos/Audios files then:
-```sh
-Go to your Pytube folder and open extract.py file and go to 301 Line (or something near this line) 
-change the "cipher" -> "signatureCipher"
+
 ```
 4. At last, push in the command:
 ```sh
@@ -49,7 +46,7 @@ python main.py
 
 ## LICENSE
 
-[MIT](https://github.com/swapnilsparsh/YoutubeDownloader/blob/master/LICENSE)
+
 
 ## Connect with me
 <a href="https://github.com/swapnilsparsh" target="_blank">
